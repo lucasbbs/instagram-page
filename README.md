@@ -1,6 +1,6 @@
 # Instagram Page
 
-![Static Badge](https://img.shields.io/badge/version-2.0.0-blue.svg)
+![Static Badge](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Welcome to my Instagram Login Page Replica! Explore the familiar interface of the Instagram login page with my simple replica. Below, you'll find all the information you need to understand and interact with my replica.
