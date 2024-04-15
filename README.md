@@ -45,7 +45,5 @@ Lucas Braga
 
 Initially Released in 2021
 
-Completelly refactored in 2024
-
 Made with :heart: by [Lucas Braga](https://github.com/lucasbbs) 🚀.
 This project is under the [MIT license](https://github.com/lucasbbs/iMonitor-Backend/master/LICENSE).
